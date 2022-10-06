@@ -1,2 +1,1 @@
 # HotelQt
-# HotelQt
